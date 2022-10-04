@@ -1,6 +1,6 @@
 <h1>James Pritchard</h1>
 <h2>Full Stack Developer</h2>
-<div style="display:flex">
+<div style="display:flex; background-color:#ffffff">
     <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
     <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
     <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
